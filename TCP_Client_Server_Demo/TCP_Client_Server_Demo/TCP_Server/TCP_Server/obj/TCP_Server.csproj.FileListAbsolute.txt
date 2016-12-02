@@ -1,0 +1,5 @@
+C:\Documents and Settings\welkerja\Desktop\TCP_Client_Server\TCP_Server\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Documents and Settings\welkerja\Desktop\TCP_Client_Server\TCP_Server\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Documents and Settings\welkerja\Desktop\TCP_Client_Server\TCP_Server\TCP_Server\TCP_Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\welkerja\Desktop\TCP_Client_Server\TCP_Server\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Documents and Settings\welkerja\Desktop\TCP_Client_Server\TCP_Server\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
